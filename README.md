@@ -1,3 +1,5 @@
+Yolo weights file link : https://drive.google.com/file/d/11tkl6p3ka_pp8tJIVhiwjh3GlvsVzibN/view?usp=sharing
+
 In this project, for text extraction, we need to detect and recognize the regions of the text on an Aadhar image using YOLO and Tesseract.
 ### Steps in YOLO Training using Darknet Framework
 - Collect data (Aadhar images)
